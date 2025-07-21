@@ -6,9 +6,11 @@ This project adds a `Calculation` model to a FastAPI app using **SQLAlchemy** an
 
 ## 🩷 GitHub Actions Workflow
 
-![GitHub Actions](github_actions.png)
+![GitHub Actions](screenshots/github_actions.png)
 
 ## 🩷 Docker Hub Deployment
+
+![GitHub Actions](screenshots/docker_hub.png)
 
 ## 🩷 Docker Image
 
