@@ -14,5 +14,4 @@ This project adds a `Calculation` model to a FastAPI app using **SQLAlchemy** an
 
 ## 🩷 Docker Image
 
-Docker image is available at:  
-👉 [**https://hub.docker.com/repository/docker/fattylipid/project11**](https://hub.docker.com/repository/docker/fattylipid/project11)
+Click [**here**](https://hub.docker.com/r/fattylipid/project11) for the public image for Project 11.
